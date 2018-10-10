@@ -1,0 +1,2 @@
+# PythonMIIGAIK
+Задание 1
